@@ -19,11 +19,11 @@
 
  //if player 1 wins
  if(randomNumber1 >randomNumber2 ){
-    document.querySelector("h1").innerHTML=" &#127986; player 1 Wins !";
+    document.querySelector("h1").innerHTML="&#127986; player 1 Wins !";
  }
 
  else if(randomNumber1 < randomNumber2 ){
-        document.querySelector("h1").innerHTML="  &#127986; Player 2 Wins !";
+        document.querySelector("h1").innerHTML="&#127986; Player 2 Wins !";
 
  }
  else{
